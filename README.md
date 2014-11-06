@@ -44,13 +44,13 @@ Commande de procédure pour :
 
 // Sur le site Github, après avoir crée un compte :
 
-  Barre de menu > icône « + » > new repository
+  	Barre de menu > icône « + » > new repository
 	Dans repository name = "votreusername".gitbuh.io
 	
 // Mettre votre projet en public :
 	
-Séléctionner « initialize this repository with a README.md »,
-Après, cliquer sur "Create".
+	Séléctionner « initialize this repository with a README.md »,
+	Après, cliquer sur "Create".
 	
 	
 	/////////////// CONFIGURATION GITHUB PAGES \\\\\\\\\\\\\\
@@ -58,27 +58,27 @@ Après, cliquer sur "Create".
 
 // Aller à la racine de votre dossier "sites"
 
-cd /votredossier/sites
+	cd /votredossier/sites
 
 // Cloner votre répertoire Github :
 
-git clone https://github.com/votreusername/votreusername.github.io
+	git clone https://github.com/votreusername/votreusername.github.io
 
 // Entrer dans votre dossier projet et modifier/ajouter un fichier index.html pour tester votre configuration :
 
-cd username.github.io
-echo "Hello World" > index.html
+	cd username.github.io
+	echo "Hello World" > index.html
 
 // Ajouter, et mettre à jour vos modifications :
 
-git add --all
-git commit -m "Initial commit"
-git push
+	git add --all
+	git commit -m "Initial commit"
+	git push
 
 // Suivez les indications : 
 
-Tapez votre nom d'utilisateur Github et votre mot de passe.
-Actualiser votre projet Github sur votre navigateur internet et verifier que le fichier index.html est apparu.
-Si oui, votre configuration est valide. Si non, bon courage.
+	Tapez votre nom d'utilisateur Github et votre mot de passe.
+	Actualiser votre projet Github sur votre navigateur internet et verifier que le fichier index.html est 	apparu.
+	Si oui, votre configuration est valide. Si non, bon courage.
 
 	
