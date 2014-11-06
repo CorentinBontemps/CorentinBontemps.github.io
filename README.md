@@ -2,7 +2,7 @@ CorentinBontemps.github.io
 ==========================
 
 
-///////////////// Fichier de procédure \\\\\\\\\\\\\\\\
+///////////////// Fichier de procédure \\\\\\\\\\\\\\\\\\\\
 
 
 //////// VIRTUALBOX CONFIGURATION \\\\\\\\\\
