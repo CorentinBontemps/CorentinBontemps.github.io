@@ -81,3 +81,4 @@ CorentinBontemps.github.io
 	Si oui, votre configuration est valide. Si non, bon courage.
 
 	
+Si vous souhaitez faire des modifications sans avoir à entrer votre mot de passe à chaque "git pull", dirigez-vous vers ce lien https://help.github.com/articles/generating-ssh-keys/#platform-linux
