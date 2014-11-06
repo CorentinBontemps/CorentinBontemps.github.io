@@ -2,13 +2,14 @@ CorentinBontemps.github.io
 ==========================
 
 
-///////////////// Fichier de procédure \\\\\\\\\\\\\\\\\\\\
+////////////////// Fichier de procédure \\\\\\\\\\\\\\\\\\\\
+============================================================
 
 
 //////// VIRTUALBOX CONFIGURATION \\\\\\\\\\
 
-	Lancer la machine virtuel « VirtualBox »
-	Dans le menu démarrer, lancer l'émulateur de Terminal.
+*Lancer la machine virtuel « VirtualBox ».*
+*Dans le menu démarrer, lancer l'émulateur de Terminal.*
 
 
 // Lancer Apache :
@@ -21,7 +22,9 @@ CorentinBontemps.github.io
 
 // Installer Ruby :
 	
-	sudo apt-get install ruby (version de ruby par défaut)
+	sudo apt-get install ruby 
+
+*(version de ruby par défaut)*
 
 // Installer Git :
 	
@@ -29,7 +32,7 @@ CorentinBontemps.github.io
 
 // Installer Jekyll 2.4 :
 	
-	sudo apt-get install ruby ruby-dev make (version de ruby développeur)
+	sudo apt-get install ruby ruby-dev make *(version de ruby développeur)*
 	sudo gem install jekyll --no-rdoc –no-ri
 	sudo apt-get install nodejs
 	jekyll - v (vérifier la version de jekyll)
@@ -43,13 +46,13 @@ CorentinBontemps.github.io
 
 // Sur le site Github, après avoir crée un compte :
 
-  	Barre de menu > icône « + » > new repository
-	Dans repository name = "votreusername".gitbuh.io
+*Barre de menu > icône « + » > new repository*
+*Dans repository name = "votreusername".gitbuh.io*
 	
 // Mettre votre projet en public :
 	
-	Séléctionner « initialize this repository with a README.md »,
-	Après, cliquer sur "Create".
+*Séléctionner « initialize this repository with a README.md »*
+*Après, cliquer sur "Create".*
 	
 	
 /////////////// CONFIGURATION GITHUB PAGES \\\\\\\\\\\\\\
@@ -76,9 +79,9 @@ CorentinBontemps.github.io
 
 // Suivez les indications : 
 
-	Tapez votre nom d'utilisateur Github et votre mot de passe.
-	Actualiser votre projet Github sur votre navigateur internet et verifier que le fichier index.html est 	apparu.
-	Si oui, votre configuration est valide. Si non, bon courage.
+*Tapez votre nom d'utilisateur Github et votre mot de passe.*
+*Actualiser votre projet Github sur votre navigateur internet et verifier que le fichier index.html est 	apparu.*
+*Si oui, votre configuration est valide. Si non, bon courage.*
 
 	
-Si vous souhaitez faire des modifications sans avoir à entrer votre mot de passe à chaque "git pull", dirigez-vous vers ce lien https://help.github.com/articles/generating-ssh-keys/#platform-linux
+*Si vous souhaitez faire des modifications sans avoir à entrer votre mot de passe à chaque "git pull", dirigez-vous vers ce lien* https://help.github.com/articles/generating-ssh-keys/#platform-linux
