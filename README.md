@@ -53,7 +53,7 @@ Commande de procédure pour :
 	Après, cliquer sur "Create".
 	
 	
-	/////////////// CONFIGURATION GITHUB PAGES \\\\\\\\\\\\\\
+/////////////// CONFIGURATION GITHUB PAGES \\\\\\\\\\\\\\
 	
 
 // Aller à la racine de votre dossier "sites"
