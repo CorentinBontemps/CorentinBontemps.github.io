@@ -7,10 +7,9 @@ CorentinBontemps.github.io
 
 //////// VIRTUALBOX CONFIGURATION \\\\\\\\\\
 
-Lancer la machine virtuel « VirtualBox »
-Dans le menu démarrer, lancer l'émulateur de Terminal.
+	Lancer la machine virtuel « VirtualBox »
+	Dans le menu démarrer, lancer l'émulateur de Terminal.
 
-Commande de procédure pour :
 
 // Lancer Apache :
 	
