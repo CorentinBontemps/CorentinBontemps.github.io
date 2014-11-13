@@ -1,1 +1,7 @@
-Hello World
+---
+title: Page Accueil
+layout: default
+---
+
+<a href="apropos.html">About</a>
+<p>Lorem Ipsum Dolor Ipsum amet edje lekzjek lekeje rghedbfeib neufbhzbadhb hzbduzehbduzhb hebihefbizhebchb</p>
